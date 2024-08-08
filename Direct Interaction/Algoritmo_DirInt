@@ -1,0 +1,9 @@
+ALGORÍTMO PARA CONTAGEM DE EVENTOS (DETECÇÃO DIRETA)
+
+- Obter número de Dark Photons com cada energia;
+
+- Definir as trajetórias (ângulo e profundidade) dentro do detector;
+
+-> importantar as seções de choque pra cada tipo de interação em função da energia do DP
+
+    -> iterar sobre as energias, os passos e ângulos dentro do detector para calcular o número de DPs que interagem.
